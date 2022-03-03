@@ -32,4 +32,4 @@ https://marshemispheres.com/
 ### NOTE: 
 At some point, the Module started using different urls in the code than what we started with. I tried using them but ran into issues, so I commented them out and stuck with the first urls that they had us reference.
 
-Also, for Deliverable 1 of the Module, several other students and I were working with a TA to figure out how to write the `for` loop . Ultimately, we worked it out, but there were a lot of us working together so our `for` loops are probably very similar to each other.
+Also, for `Deliverable 1` of the Module, several other students and I were working with a TA to figure out how to write the `for` loop . Ultimately, I worked out a `for` loop that performs the intended scraping, but I got a lot of help from the TA and my fellow students.
